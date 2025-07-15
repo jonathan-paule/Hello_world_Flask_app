@@ -1,5 +1,6 @@
-# Created by http://www.gitignore.io
 
+# Created by http://www.gitignore.io
+# not needed
 ### vim ###
 [._]*.s[a-w][a-z]
 [._]s[a-w][a-z]
